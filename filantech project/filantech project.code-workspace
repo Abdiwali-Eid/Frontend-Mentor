@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "filantech project",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../filan-tech challange/social-proof-section-master/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "filantech project"
+	}
+}

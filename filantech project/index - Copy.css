@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=League+Spartan:wght@100;200;300;400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+   
+}
+body{
+    font-size: 15px; 
+    font-family:League Spartan;
+}
+.tan1aad{
+    font-weight: 800;
+}
+
+/* .text-1{
+    position: absolute;
+width: 445px;
+height: 245px;
+left: 165px;
+top: 118px;
+  
+} */
+.text-1{
+    width: 445px;
+height: 154px;
+left: 165px;
+top: 118px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 48px;
+/* or 86% */
+
+letter-spacing: -2px;
+
+color: #512051;
+
+}
+.text p{
+    width: 445px;
+height: 75px;
+left: 165px;
+top: 288px;
+
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 25px;
+/* or 132% */
+
+letter-spacing: -0.633333px;
+
+color: #927B91;
+
+}
+
+.header{
+    /* position: absolute; */
+    display:flex;
+     width:445px;
+   height: 245px;
+   top: 118px;
+   left:165px;
+   padding-top: 130px;
+   margin-left: 180px;
+
+}
+.fa-solid{
+    color: 
+    rgba(239, 149, 70, 1) ;
+     padding: 5px;
+}
+.starss{
+
+position: absolute;
+width: 540px;
+height: 200px;
+left: 735px;
+top: 145px;
+/* display: flex; */
+}
+.star-1{
+    display: flex;
+    background-color: aliceblue;
+    width: 340px;
+    height: 56px;
+    left: 735px;
+    top: 145px;
+   align-items: center;   
+   padding-left: 10px;
+   background-color: rgba(247, 242, 247, 1);
+   border-radius: 8px;
+    
+}
+.star-2{
+    display: flex;
+    background-color: aliceblue;
+    width: 340px;
+    height: 56px;
+    left: 735px;
+    top: 145px;
+   align-items: center;   
+   padding-left: 10px;
+   margin-left: 25px;
+   
+  background-color: rgba(247, 242, 247, 1);
+  border-radius: 8px;
+}
+.star-2 .soco{
+    padding-left: 20px;
+}
+.star-1 .soco{
+    padding-left: 20px;
+}
+.star-3 .soco{
+    padding-left: 20px;
+}
+.star-3{
+    display: flex;
+    background-color: aliceblue;
+    width: px;
+    height: 56px;
+    left: 735px;
+    top: 145px;
+   align-items: center;   
+   padding-left: 10px;
+   background-color: rgba(247, 242, 247, 1);
+   border-radius: 8px;
+   margin-left: 60px;
+}
+.cards{
+    margin-top: 160px;
+    margin-left: 30px;
+}
+.colton{
+    border-radius: 50%;
+    width: 40px;
+height: 40px;
+left: 197px;
+top: 474px;
+}
+.headerimh{
+    display: flex;
+    width: 162px;
+height: 40px;
+left: 197px;
+top: 474px;
+
+padding-top: 20px;
+margin-left: 30px;
+justify-content: space-between;
+
+}
+.war{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.headerimh h5{
+    padding-top: 12px;
+    padding-left: 4px;
+}
+.headerimh h5 span{
+    height: 16px;
+    left: 0%;
+    right: 2%;
+    top: calc(50% - 16px/2 + 10px);
+    
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #EE69A4;
+}
+
+.headerimh h5 sur{
+    height: 16px;
+    left: 0%;
+    right: 0%;
+    top: calc(50% - 16px/2 - 10px);
+    
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.card1{
+    width: 350px;
+height: 234px;
+left: 165px;
+top: 434px;
+
+background: #512051;
+border-radius: 8px;
+
+}
+.card2{
+    width: 350px;
+height: 234px;
+left: 165px;
+top: 434px;
+
+background: #512051;
+border-radius: 8px;
+margin-top: 20px;
+}
+.card3{
+    width: 350px;
+height: 234px;
+left: 165px;
+top: 434px;
+
+background: #512051;
+border-radius: 8px;
+margin-top: 40px;
+}
+
+.war h5{
+    width: 286px;
+    height: 88px;
+    left: 197px;
+    top: 545px;
+    
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+    /* or 129% */
+    
+    letter-spacing: -0.303571px;
+    
+    color: #FFFFFF;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cards .card1 {
+   
+}
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+     }
+   }
+   
+   
+   
+   
+   
+   
