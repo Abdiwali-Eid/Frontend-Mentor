@@ -1,4 +1,4 @@
-![portada frontend mentor](/images/frontend_portada.png)
+
 
 <h1 align="center">Huddle Landing Page</h1>
 
@@ -19,7 +19,7 @@
 
 
 
-- Twitter Aman [@Abdiwali-Eid](https://twitter.com/CabdiwaliBashir)  
+- Twitter Abdiwali-Eid [@Abdiwali-Eid](https://twitter.com/CabdiwaliBashir)  
 
 <div align="right">
     <p>Abdiwali-Eid | 2023</p>
