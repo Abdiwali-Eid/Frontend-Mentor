@@ -25,44 +25,16 @@
    Solution for a challenge from <a href="https://www.frontendmentor.io/" target="_blank">Frontendmentor.io</a>
 </div>
 
----
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Built with](#built-with)
-- [Contact](#contact)
-
-
-<!-- Overview section -->
-## Overview
-<!-- ![preview screenshot](images/preview.png)
-
-- Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-- You can see a live site at [Huddle landing page](https://huddle-landing-page-teal.vercel.app/)
- -->
-
-<!-- ### Built with 
-
-- Semantic HTML5 markup
-- CSS custom properties
-- SCSS
-- Flexbox
-- Mobile-first workflow -->
-
-<!-- Contact section -->
 
 ##  Contact
 
 - Github Repositories [@Abdiwali-Eid](https://github.com/Abdiwali-Eid)
 
-<!-- - Frontend Mentor [@](https://www.frontendmentor.io/profile/Aman-sgz) -->
+
 
 
 - Twitter Aman [@Abdiwali-Eid](https://twitter.com/CabdiwaliBashir)  
-
----
 
 <div align="right">
     <p>Abdiwali-Eid | 2023</p>
